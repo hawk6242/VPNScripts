@@ -1,0 +1,9 @@
+https://openvpn.net/community-resources/how-to/
+https://openvpn.net/community-resources/reference-manual-for-openvpn-2-0/
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04
+https://github.com/OpenVPN/easy-rsa/releases/tag/v3.0.5
+
+wget -P ~/ https://github.com/OpenVPN/easy-rsa/archive/v3.0.5.tar.gz
+cd ~
+tar xvf easy-rsa-3.0.5.tar.gz
+
